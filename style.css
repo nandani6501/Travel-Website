@@ -1,0 +1,59 @@
+
+.bg_img{
+  width: 100vw;
+  height: 45vw;
+}
+
+.heading{
+  margin: 5vw;
+   text-align: center;
+   color: black;
+   
+}
+
+#booknow{
+  /* border: 1px solid black; */
+  box-shadow: 10px 10px 10px gainsboro;
+}
+
+#booknow_img{
+  width: 100%;
+  /* height: 20%; */
+  box-shadow: 10px 10px 10px gainsboro;
+
+}
+
+.gallery{
+  width: 100%;
+  height: 18rem;
+  box-shadow: 10px 10px 10px gainsboro;
+}
+
+i{
+  color: black;
+}
+
+.socialicons{
+  text-align: center;
+  padding-bottom: 2rem;
+  border: 1px solid black;
+  margin-top: 2rem;
+  background-color: gainsboro;
+ 
+}
+
+#instagram:hover{
+  color:#E1306C ;
+}
+
+#linkedin:hover{
+  color: #0077b5;
+}
+
+#facebook:hover{
+  color: #4267B2;
+}
+
+#twitter:hover{
+  color: 	#1DA1F2;
+}
